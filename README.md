@@ -34,7 +34,7 @@ BoxTM model loaded from ./model/nyt_50_8171/all_model_pretrain.pkl.
 [Level-0 Topic]
 Topic 0:['film', 'films', 'movie', 'characters', 'movies', 'actors', 'hollywood', 'cinema', 'comedy', 'dvd', 'festival', 'actor', 'filmmakers', 'actress', 'studio', 'documentary', 'theater', 'character', 'mr', 'comic', 'oscar', 'musical', 'directed', 'audience', 'starring', 'viewers', 'ms', 'producer', 'romantic', 'music']
 ...
-# keyword of the leaf topics.
+# keywords of the leaf topics.
 # e.g., "Topic 0 [0, 25]" means that Topic (0-)0 and Topic (0-)25 at level 0 are children of Topic (1-)0 at level 1.
 [Level-1 Topic]
 Topic 0 [0, 25]:['music', 'festival', 'film', 'opera', 'album', 'songs', 'mr', 'orchestra', 'musical', 'dance', 'films', 'musicians', 'ballet', 'characters', 'movie', 'artists', 'movies', 'theater', 'song', 'piano', 'dancers', 'guitar', 'audience', 'band', 'character', 'singer', 'ms', 'premiere', 'studio', 'art']
