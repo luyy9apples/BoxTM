@@ -107,3 +107,24 @@ bash scripts/run.sh
 The training log is saved in `log/nyt_train.log`.
 
 Once the training is complete, the script will perform the intrinsic evaluation on the trained BoxTM model. The results are stored in `log/nyt_test.log`.
+
+
+
+## Citation
+
+```
+@article{10.1162/tacl_a_00712,
+    author = {Lu, Yuyin and Chen, Hegang and Mao, Pengbo and Rao, Yanghui and Xie, Haoran and Wang, Fu Lee and Li, Qing},
+    title = "{Self-supervised Topic Taxonomy Discovery in the Box Embedding Space}",
+    journal = {Transactions of the Association for Computational Linguistics},
+    volume = {12},
+    pages = {1401-1416},
+    year = {2024},
+    month = {11},
+    issn = {2307-387X},
+    doi = {10.1162/tacl_a_00712},
+    url = {https://doi.org/10.1162/tacl\_a\_00712},
+    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00712/2478615/tacl\_a\_00712.pdf},
+}
+```
+
