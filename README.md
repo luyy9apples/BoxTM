@@ -1,6 +1,6 @@
 # Tutorial
 
-This repository contains the implementation for our under-review paper, **Self-supervised Topic Taxonomy Discovery in the Box Embedding Space**.
+This repository contains the implementation for our paper "**Self-supervised Topic Taxonomy Discovery in the Box Embedding Space**" accepted to TACL.
 
 In summary, we develop a Box embedding-based Topic Model (BoxTM) that maps words and topics into the box embedding space, where the asymmetric metric is defined to properly infer hierarchical relations among topics. Additionally, our BoxTM explicitly infers upper-level topics based on correlation between specific topics through recursive clustering on topic boxes.
 
