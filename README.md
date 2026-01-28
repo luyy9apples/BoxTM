@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## 1. Evaluation
 
-We provide the pretrained checkpoints on the three corpora (i.e., 20NS, NYT, and arXiv) in the folder of `model`, i.e., `model/[dataset]/all_model_pretrain.*`.
+The corpora used in this work (i.e., 20NS, NYT, and arXiv) can be downloaded [here](https://drive.google.com/file/d/1hy75h5zoQKYE9OT8FlxUnFt_whMpbL-k/view?usp=sharing), and the corresponding pretrained checkpoints are provided in the `model` folder, i.e., `model/[dataset]/all_model_pretrain.*`.
 
 You can run the script of `scripts/eval.sh` to load the pretrained checkpoints and  reproduce the results of our BoxTM on the intrinsic evaluation.
 
@@ -127,4 +127,5 @@ Once the training is complete, the script will perform the intrinsic evaluation 
     eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00712/2478615/tacl\_a\_00712.pdf},
 }
 ```
+
 
